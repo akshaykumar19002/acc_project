@@ -1,4 +1,4 @@
-# acc_project
+# ACC Project: Search Engine
 
 This is a serch engine which needs link of website as user input, and performs below mentioned features.
 
